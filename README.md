@@ -1,2 +1,4 @@
 LanartProductBundle
 ===================
+
+Descripcion del modulo
