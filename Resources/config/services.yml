@@ -1,0 +1,7 @@
+parameters:
+#    lanart_product.example.class: Lanart\ProductBundle\Example
+
+services:
+#    lanart_product.example:
+#        class: %lanart_product.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
